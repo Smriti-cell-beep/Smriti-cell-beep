@@ -1,7 +1,13 @@
 
-Computer Science Student | Full Stack Web Developer 
+# Hi there, I'm Smriti Tamang! 👋
+### Computer Science Student | Full Stack Web Developer 
 
 
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Smriti%20Tamang) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lamasmriti568@gmail.com) 
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Smriti Tamang) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lamasmriti568@gmail.com) 
 
