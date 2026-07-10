@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Computer Science Student | Full Stack Web Developer 
 
 
