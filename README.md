@@ -1,6 +1,6 @@
 
 # Hi there, I'm Smriti Tamang! 👋
-### Computer Science Student | Full Stack Web Developer 
+### Computer Science Student 
 
 
 
